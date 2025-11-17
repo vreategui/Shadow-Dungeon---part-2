@@ -1,1 +1,2 @@
-# Shadow-Dungeon---part-2
+
+Shadow Dungeon is a 2D room-based adventure game built with the Bagel library in Java. Players explore connected rooms, defeat enemies, collect coins, and unlock doors to reach the end. Choose between the Robot (extra coins per kill) or the Marine (immune to river damage). Battle enemies like Bullet Kin and Ashen Bullet Kin, open treasure boxes with keys, and upgrade weapons or health through the in-game store. Use WASD to move, mouse click to shoot, and Space to open the store.
